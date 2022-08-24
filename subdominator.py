@@ -1,6 +1,5 @@
 # import modules
 
-from re import A
 import time
 import urllib3
 import subprocess
