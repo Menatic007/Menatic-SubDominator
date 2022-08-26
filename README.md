@@ -1,4 +1,4 @@
-# Menatic Sub Dominator
+# **Menatic Sub Dominator**
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue?style=flat&logo=python)
 ![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=flat&logo=linux)
@@ -9,14 +9,16 @@
 ![GitHub](https://img.shields.io/github/stars/Menatic007/Menatic-SubDominator?style=social)
 
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/102872534/186931473-696653d8-1bfd-41f9-9bac-fe3f66605078.gif)
+
 * All **registered** subdomains!
 * All **active** subdomains!
 * All **Dns records**!
 * Is **non-intrusive** - leave **NO fingerprints**, *totally fast and totally anonymous.*
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/102872534/186931473-696653d8-1bfd-41f9-9bac-fe3f66605078.gif)
+## **Description** 
 
-**Menatic Sub-Dominator** - <p>Gathers all registered subdomains for target domain, and then checks too see which ones are active subdomains, also will go through dns servers and do zonetransfer to see if any server have been miss configured and are leaking valuable
+<p>Menatic Sub Dominator Gathers all registered subdomains for target domain, and then checks too see which ones are active subdomains, also will go through dns servers and do zonetransfer to see if any server have been miss configured and are leaking valuable
 information. Subdomains of a website are usually hidden and  are the main places where bug bounty hunters find their bugs from. This tool makes it easy to hunt down all these sub-domains and gather the following information if there is a vulnerability in the DNS server:<p>
 
 * Owner/sys-admin email.
