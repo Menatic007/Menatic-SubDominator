@@ -35,7 +35,7 @@ Therfore this helps penetration testers and bug hunters collect and gather subdo
 
 ## Disclaimer !!!
 
-<p>The exploits and malware built on this respository are mainly for POC and Educational purposes only. The developer is in no way responsible for any sort of misuse of tools and exploits or spreading of malware from this respository. If you use my tools in an illegal way, you will fully be responsible for your actions and not me.</p>
+<p>The exploits and malware built on this respository are mainly for POC and Educational purposes only. The developer is in no way responsible for any sort of misuse of tools and exploits or spreading of malware from this respository.</p>
 
 
 ## Prerequisites
