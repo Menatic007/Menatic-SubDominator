@@ -33,6 +33,20 @@ information. Subdomains of a website are usually hidden and  are the main places
 
 Therfore this helps penetration testers and bug hunters collect and gather subdomains and information for the domain they are targeting. 
 
+## Prerequisites
+
+*From the standard libraries.*
+* Time 
+* Socket 
+* Subprocess 
+* os 
+* Argparse 
+* Json 
+
+*Not from the standard libraries.*
+* Colorama 
+* Requests 
+* Urlib3
 ## Installation
 
 <code>
@@ -61,39 +75,20 @@ To list all available options:
 
 </code>
 
+## Built With
 
-**Key points**
+* **Python 3.10.5** - [https://www.python.org/](https://www.python.org/)
+
+## Key points
+
 * Arguments are **-d** *(For domain)* & **-o** *(For output file)*
 * Use http(s) in your domain.  ~  *Ex. -d https://example.com (Not https://www.example.com)*
 * Specifying domain name is *NOT* optional.  ~  *Ex. -d https://example.com*
 * Specifying output file *is* optional.  ~  *Ex. -o example.txt* 
 
 **Note:**
-- *100%*: You will get everything that can be possibly got from the domain/host all whilst leaving **NO** fingerprints.
+- *100%*: You will get everything that can be possibly got from the domain/host all whilst leaving **NO** fingerprints. Enjoy
 
-## Prerequisites
-
-*From the standard libraries.*
-* Time 
-* Socket 
-* Subprocess 
-* os 
-* Argparse 
-* Json 
-
-*Not from the standard libraries.*
-* Colorama 
-* Requests 
-* Urlib3 
-
-## Usage example:
-
-
-
-
-## Built With
-
-* **Python 3.10.5** - [https://www.python.org/](https://www.python.org/)
 
 
 
