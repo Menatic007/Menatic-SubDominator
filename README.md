@@ -5,7 +5,7 @@
 * All **Dns records**!
 * Is **non-intrusive** - leave **NO fingerprints**, *totally fast and totally anonymous.*
 
-<img src="\resources\unknown.png" alt="Image"></img>
+<img src="[\resources\unknown.png](https://ibb.co/g4tHCx4)" alt="Image"></img>
 
 
 **Menatic Sub-Dominator** - <p>Gathers all registered subdomains for target domain, and then checks too see which ones are active subdomains, also will go through dns servers and do zonetransfer to see if any server have been miss configured and are leaking valuable
