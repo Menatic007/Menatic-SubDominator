@@ -58,7 +58,7 @@ Therfore this helps penetration testers and bug hunters collect and gather subdo
   
 - pip3 install -r requirements.txt
 
-- Installation done as simple as that
+- Installation done, as simple as that.
   
 </code> 
 
