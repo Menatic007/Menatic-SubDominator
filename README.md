@@ -49,7 +49,6 @@ Therfore this helps penetration testers and bug hunters collect and gather subdo
 * Json 
 
 *Not from the standard libraries.*
-* Colorama 
 * Requests 
 * Urlib3
 ## Installation
