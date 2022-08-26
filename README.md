@@ -18,7 +18,7 @@
 
 ## **Description** 
 
-<p>Menatic Sub Dominator Gathers all registered subdomains for target domain, and then checks too see which ones are active subdomains, also will go through dns servers and do zonetransfer to see if any server have been miss configured and are leaking valuable
+<p>Menatic Sub Dominator Gathers all registered subdomains for target domain, and then checks to see which ones are active subdomains, also will go through dns servers and do zonetransfer to see if any server have been mis-configured and are leaking valuable
 information. Subdomains of a website are usually hidden and  are the main places where bug bounty hunters find their bugs from. This tool makes it easy to hunt down all these sub-domains and gather the following information if there is a vulnerability in the DNS server:<p>
 
 * Owner/sys-admin email.
