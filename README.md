@@ -4,7 +4,6 @@
 ![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=flat&logo=linux)
 ![GitHub](https://img.shields.io/github/license/Menatic007/Menatic-SubDominator?style=flat-square)
 ![GitHub](https://img.shields.io/github/repo-size/Menatic007/Menatic-SubDominator)
-![GitHub](https://img.shields.io/tokei/lines/github.com/Menatic007/Menatic-SubDominator)
 ![GitHub](https://img.shields.io/github/forks/Menatic007/Menatic-SubDominator?style=flat-square)
 ![GitHub](https://img.shields.io/github/stars/Menatic007/Menatic-SubDominator?style=social)
 
