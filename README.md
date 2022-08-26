@@ -1,10 +1,12 @@
 # Menatic Sub Dominator
 
-**```HTTP(S)-Subdomains,Dns records, & More!```**
 * All **registered** subdomains!
 * All **active** subdomains!
 * All **Dns records**!
 * Is **non-intrusive** - leave **NO fingerprints**, *totally fast and totally anonymous.*
+
+<img src="\resources\unknown.png" alt="Image"></img>
+
 
 **Menatic Sub-Dominator** - <p>Gathers all registered subdomains for target domain, and then checks too see which ones are active subdomains, also will go through dns servers and do zonetransfer to see if any server have been miss configured and are leaking valuable
 information. Subdomains of a website are usually hidden and  are the main places where bug bounty hunters find their bugs from. This tool makes it easy to hunt down all these sub-domains and gather the following information if there is a vulnerability in the DNS server:<p>
