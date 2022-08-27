@@ -1,4 +1,4 @@
-# **Menatic Sub Dominator**
+# **Menatic Sub-Dominator**
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue?style=flat&logo=python)
 ![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=flat&logo=linux)
